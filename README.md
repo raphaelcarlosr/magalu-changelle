@@ -2,9 +2,9 @@
 
 # Links
  - [Download](https://github.com/raphaelcarlosr/magalu-changelle/suites/945607956/artifacts/11734956)
- - [API URL]([http://magalu-changelle.azurewebsites.net/](http://magalu-changelle.azurewebsites.net/))
+ - [API URL](http://magalu-changelle.azurewebsites.net/)
  - [API Docs](http://magalu-changelle.azurewebsites.net/swagger/index.html)
- - [Security Report Summary]([https://securityheaders.com/?q=http%3A%2F%2Fmagalu-changelle.azurewebsites.net%2F&followRedirects=on](https://securityheaders.com/?q=http%3A%2F%2Fmagalu-changelle.azurewebsites.net%2F&followRedirects=on))
+ - [Security Report Summary](https://securityheaders.com/?q=http%3A%2F%2Fmagalu-changelle.azurewebsites.net%2F&followRedirects=on)
 
 # Features
 
