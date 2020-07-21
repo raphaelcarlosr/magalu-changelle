@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/raphaelcarlosr/magalu-changelle/workflows/.NET%20Core/badge.svg)
+
 # Links
  - [Download](https://github.com/raphaelcarlosr/magalu-changelle/suites/945607956/artifacts/11734956)
  - [API URL]([http://magalu-changelle.azurewebsites.net/](http://magalu-changelle.azurewebsites.net/))
