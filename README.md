@@ -26,9 +26,3 @@ dotnet run -p ./api
 ```powershell
 dotnet publish ./api -o ./package -c Release
 ```
-## Add migration
-
-Open your Package Manager Console
-Change the default project to Aurora.Infra.Data
-Run command "Add-Migration [NAME OF YOUR MIGRATION]"
-Run command "Update-Database"
