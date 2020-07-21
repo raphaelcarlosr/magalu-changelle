@@ -33,5 +33,18 @@ namespace Magalu.Test
             response.EnsureSuccessStatusCode();
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
+
+        [Theory]
+        [InlineData("raphaelcarlosr@gmail.com", "Raphael Carlos Rego")]
+        public async Task Update_Test(string email, string name)
+        {
+            //var request = new HttpRequestMessage(new HttpMethod("POST"), $"/client");
+            var parameters = new Dictionary<string, string> { { "email", email }, { "name", name } };
+            var encodedContent = new FormUrlEncodedContent(parameters);
+            var response = await Api.PutAsync($"/api/client", encodedContent);
+            response.EnsureSuccessStatusCode();
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+        
     }
 }

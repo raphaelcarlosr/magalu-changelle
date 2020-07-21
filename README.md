@@ -1,16 +1,20 @@
+# Links
+
+ - [API URL]([http://magalu-changelle.azurewebsites.net/](http://magalu-changelle.azurewebsites.net/))
+ - [API Docs](http://magalu-changelle.azurewebsites.net/swagger/index.html)
+ - [Security Report Summary]([https://securityheaders.com/?q=http%3A%2F%2Fmagalu-changelle.azurewebsites.net%2F&followRedirects=on](https://securityheaders.com/?q=http%3A%2F%2Fmagalu-changelle.azurewebsites.net%2F&followRedirects=on))
+
 # Features
-[x] Migrations
-Layer architecture
-Clean Architecture
-S.O.L.I.D. principles
-Clean Code
-Domain Validations
-Domain Notifications
-Domain Driven Design
-CQS
-Repository Pattern
-Notification Pattern
-Mapper by Extension Methods
+
+ - [X] Migrations 
+ - [X] Layer architecture 
+ - [X] Clean Architecture 
+ - [X] S.O.L.I.D. principles 
+ - [X] Clean Code 
+ - [X] CQS 
+ - [X] Repository Pattern 
+ - [X] Mapper by Extension
+       Methods
 
 # Contrib
 
